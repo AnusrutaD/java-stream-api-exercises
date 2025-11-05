@@ -67,6 +67,12 @@ It includes practical examples, interview-style questions, and hands-on coding c
 2. Open it in your IDE (IntelliJ IDEA / Eclipse / VS Code).
 
 3. Run individual classes from the src/main/java directory.
+4. Create a new branch `stream-api/<Your name>`
+```bash
+    git checkout -b stream-api/<Your name>
+```
+5. create a new package `streamapi.<your name>`
+6. Copy all the files from `streamapi.all` to `streamapi.<your name>`
 
 ## ✨ Author
 ### Anusruta Dutta
