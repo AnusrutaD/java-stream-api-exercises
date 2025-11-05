@@ -71,7 +71,7 @@ It includes practical examples, interview-style questions, and hands-on coding c
 ```bash
     git checkout -b stream-api/<Your name>
 ```
-5. create a new package `streamapi.<your name>` in the main amd the test both the places
+5. create a new package `streamapi.<your name>` in the main and the test both the places
 6. Copy all the files from `streamapi.all` to `streamapi.<your name>`
 ```bash
     cp -r src/main/java/streamapi/all/. src/main/java/streamapi/anusruta
